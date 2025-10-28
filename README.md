@@ -4,14 +4,13 @@
 
 <h2 align="center">EAT | CODE | SLEEP < repeat </h2>
 
-- 💪🏼 I specialize in building projects using the Python-Django and Dart-Flutter stack, with strong expertise in Flutter app development.
-- 📱 My journey into Android development began in 2019 with Java. In 2021, I transitioned to Flutter, and since then, it has been my primary focus.
-- 🧠 I'm currently expanding my backend skills by learning ASP.NET Core Web API to build scalable and secure server-side applications.
-- 🎯 I believe in delivering seamless and intuitive user experiences through thoughtfully crafted frontends.
-- 🤝🏼 One of my ongoing goals is to contribute more actively to open-source projects. If you haven't seen my contributions yet, stay tuned—I'm working on it!
-- 📬 Feel free to reach out: <a href=''>Let's get in touch!</a>
-- ⚡ Fun fact: I love traveling and discovering new places when I’m not coding.
-
+- 💡 Flutter developer with around one year of experience building cross-platform mobile apps for Android and iOS.
+- 📱 Skilled in Flutter, REST API integration, and creating clean, responsive UI/UX designs.
+- 🚀 I enjoy turning ideas into smooth, user-friendly mobile experiences with modern tools and best practices.
+- 🧠 Currently learning more about backend development to strengthen my full-stack capabilities.
+- 🎯 Always exploring new technologies and aiming to grow as a developer through real-world projects and collaborations.
+- 🤝 Open to teamwork, contributions, and exciting app ideas—let’s build something great together!
+- ⚡ Fun fact: When I’m not coding, I love exploring new places and learning new skills.
 ---
 
 ### 💻 Technologies I Use
