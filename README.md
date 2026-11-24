@@ -4,7 +4,7 @@
 
 <h2 align="center">EAT | CODE | SLEEP < repeat </h2>
 
-- 💡 Flutter developer with around one year of experience building cross-platform mobile apps for Android and iOS.
+- 💡 Flutter developer with around two year of experience building cross-platform mobile apps for Android and iOS.
 - 📱 Skilled in Flutter, REST API integration, and creating clean, responsive UI/UX designs.
 - 🚀 I enjoy turning ideas into smooth, user-friendly mobile experiences with modern tools and best practices.
 - 🧠 Currently learning more about backend development to strengthen my full-stack capabilities.
